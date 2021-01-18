@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    background-color: #EF5350;
+}
+
+#para1 {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#image1 {
+    height: 600px;
+    width: 650px;
+}
+
+#para2 {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#image2 {
+    height: 600px;
+    width: 600px;
+}
+
+#para3 {
+    font-style: italic;
+    font-size: 20px;
+}
+
+#para4 {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+}
+
+h1 {
+    color: #311B92;
+}
+img{
+    border-style:double;
+    border-width:20px;;
+    border-radius:45px;
+border-color:red;    
+}
+.links{
+    float: left;
+    color:#ffff;
+    padding-top:5px;
+    padding-bottom: 5px;
+     padding-right: 9px;
+     padding-left: 9px;
+    font-family:fantasy;
+    font-size:20px;
+}
+section{
+    background-color:#33FFBE;
+}
